@@ -17,9 +17,9 @@ I work at the intersection of **machine learning, quantitative finance, and prod
 
 ## ⚙️ Tech Stack
 
-* **Languages:** Python, JavaScript
+* **Languages:** Python, JavaScript, SQL, C
 * **ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy
-* **Finance:** Quant models, Backtesting, Portfolio Analytics
+* **Finance:** Quant models, Portfolio Optimization, Financial Modeling, Algorithmic Trading
 * **Web:** Vue.js, Node.js, NestJS
 * **Database:** MongoDB
 
@@ -29,8 +29,22 @@ I work at the intersection of **machine learning, quantitative finance, and prod
 
 * 🧾 *AI-Driven Financial Advisory Systems*
 
-  * Risk profiling + portfolio allocation + RL-based control
-  * Targeting IEEE conference submission
+* Risk profiling using behavioral & financial data
+* Portfolio optimization (MPT, Black-Litterman)
+* Reinforcement learning for dynamic asset allocation
+* Backtesting on historical market data
+* Focus on robustness, interpretability & real-world applicability
+
+📌 IEEE conference submission in progress
+
+---
+
+💼 Experience Highlights
+
+* Built AI-driven fintech solutions improving engagement by 20%+
+* Developed intelligent chatbot systems for financial advisory
+* Worked with National Informatics Centre (Govt. of India) on digital platform strategy
+* Experience in market research & business strategy (Admitad India)
 
 ---
 
@@ -44,9 +58,8 @@ I work at the intersection of **machine learning, quantitative finance, and prod
 
 ## 🌐 Connect With Me
 
-* LinkedIn: (add your link)
-* Twitter/X: (optional)
-* Email: (professional email)
+* LinkedIn: www.linkedin.com/in/adityatiwari19
+* Email: adityatiwari9205@gmail.com
 
 ---
 

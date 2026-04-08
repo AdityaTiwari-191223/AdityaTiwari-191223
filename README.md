@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Aditya 👋
 
-<!--
-**AdityaTiwari-191223/AdityaTiwari-191223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI x Finance | Building intelligent portfolio systems**
 
-Here are some ideas to get you started:
+I work at the intersection of **machine learning, quantitative finance, and product building** — focused on creating adaptive, data-driven investment systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 What I’m Working On
+
+* 📊 AI-powered **risk profiling systems**
+* 📈 **Portfolio optimization** (MPT, Black-Litterman, AI allocation)
+* 🤖 **Reinforcement learning for trading**
+* 🧩 Building **Dhanvira** — AI portfolio intelligence platform
+
+---
+
+## ⚙️ Tech Stack
+
+* **Languages:** Python, JavaScript
+* **ML/AI:** PyTorch, Scikit-learn, Pandas, NumPy
+* **Finance:** Quant models, Backtesting, Portfolio Analytics
+* **Web:** Vue.js, Node.js, NestJS
+* **Database:** MongoDB
+
+---
+
+## 📄 Research & Publications
+
+* 🧾 *AI-Driven Financial Advisory Systems*
+
+  * Risk profiling + portfolio allocation + RL-based control
+  * Targeting IEEE conference submission
+
+---
+
+## 📊 Current Focus
+
+* Scaling **AI in finance**
+* Real-world deployment of **quant models**
+* Bridging **research → product → startup**
+
+---
+
+## 🌐 Connect With Me
+
+* LinkedIn: (add your link)
+* Twitter/X: (optional)
+* Email: (professional email)
+
+---
+
+## ⚡ Philosophy
+
+> Build systems, not projects.
+> Think in models, not features.
+> Optimize for learning speed over comfort.
+
+---
+
+⭐️ If you’re working in AI, finance, or building something ambitious — let’s connect.
+
